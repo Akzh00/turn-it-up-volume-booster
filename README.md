@@ -5,7 +5,7 @@ A small browser extension that makes one tab quieter or louder, from 0% up to 20
 ![Turn It Up popup at 150%](docs/screenshots/popup.png)
 
 ## Install
-Works in **Chrome**, **Edge** and **Brave**. Other browsers built on Chromium (such as Opera and Vivaldi) should work too, but haven't been tried. Turn It Up isn't in a browser's add-on store, so you install it by hand. It takes about a minute.
+Turn It Up isn't in a browser's add-on store, so you install it by hand. It takes about a minute.
 
 **Before you install:** your browser will say this extension can "read and change all your data on all websites". That's its standard wording for the one permission the boost needs, to hear a tab's sound. Turn It Up uses it only for sound, only on a tab where you moved the slider, and has no code that connects to the internet. The whole extension is a few small files in the `extension` folder.
 
